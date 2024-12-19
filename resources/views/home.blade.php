@@ -80,7 +80,7 @@
               </p>
               <div class="text-center text-lg-start">
                 <a href="https://pmb.digitechuniversity.ac.id/registrasi" class="btn-read-more d-inline-flex align-items-center justify-content-center align-self-center">
-                  <span>DAFTAR SEKARANG</span>
+                  <span>DAFTAR</span>
                   <i class="bi bi-arrow-right"></i>
                 </a>
               </div>
@@ -104,7 +104,7 @@
     </div>    
     </section><!-- End About Section -->
 
-    <!-- ======= Values Section ======= -->
+    <!-- ======= Video Section ======= -->
     <section id="values" class="values">
       <div class="container" data-aos="fade-up">
         <header class="section-header">
@@ -112,82 +112,71 @@
         </header> <br><br>
         <div class="row">
         
-          <div class="col-md-2">
-            <figure class="instagram-item position-relative rounded-3">
-              <a href="https://www.instagram.com/reel/C4AhgYXvtS-/" class="image-link position-relative">
-                <div class="icon-overlay position-absolute d-flex justify-content-center">
-                  <svg class="instagram">
-                    <use xlink:href="#instagram"></use>
-                  </svg>
-                </div>
-                <img src="assets/img/v1.png" alt="instagram" class="img-fluid rounded-3 insta-image">
-              </a>
-            </figure>
-          </div>
-          <div class="col-md-2">
-            <figure class="instagram-item position-relative rounded-3">
-              <a href="https://www.instagram.com/reel/C1_jrfwvqAY/" class="image-link position-relative">
-                <div class="icon-overlay position-absolute d-flex justify-content-center">
-                  <svg class="instagram">
-                    <use xlink:href="#instagram"></use>
-                  </svg>
-                </div>
-                <img src="assets/img/v2.png" alt="instagram" class="img-fluid rounded-3 insta-image">
-              </a>
-            </figure>
-          </div>
+        <div class="col-md-2 col-12 mb-4">
+          <figure class="instagram-item position-relative rounded-3">
+            <a href="https://www.instagram.com/reel/C1_jrfwvqAY/" class="image-link position-relative">
+              <img src="assets/img/v1.png" alt="instagram" class="img-fluid rounded-3 insta-image">
+              <div class="icon-overlay position-absolute d-flex justify-content-center align-items-center">
+                <img src="assets/img/instagram-icon.svg" alt="Instagram Icon" class="instagram-icon">
+              </div>
+            </a>
+          </figure>
+        </div>
+
+        <div class="col-md-2 col-12">
+          <figure class="instagram-item position-relative rounded-3">
+            <a href="https://www.instagram.com/reel/C1_jrfwvqAY/" class="image-link position-relative">
+              <img src="assets/img/v2.png" alt="instagram" class="img-fluid rounded-3 insta-image">
+              <div class="icon-overlay position-absolute d-flex justify-content-center align-items-center">
+                <img src="assets/img/instagram-icon.svg" alt="Instagram Icon" class="instagram-icon">
+              </div>
+            </a>
+          </figure>
+        </div>
           <div class="col-md-2">
             <figure class="instagram-item position-relative rounded-3">
               <a href="https://www.instagram.com/reel/C1_tt5rP9bF/" class="image-link position-relative">
-                <div class="icon-overlay position-absolute d-flex justify-content-center">
-                  <svg class="instagram">
-                    <use xlink:href="#instagram"></use>
-                  </svg>
-                </div>
                 <img src="assets/img/v3.png" alt="instagram" class="img-fluid rounded-3 insta-image">
+                <div class="icon-overlay position-absolute d-flex justify-content-center align-items-center">
+                <img src="assets/img/instagram-icon.svg" alt="Instagram Icon" class="instagram-icon">
+              </div>
               </a>
             </figure>
           </div>
           <div class="col-md-2">
             <figure class="instagram-item position-relative rounded-3">
               <a href="https://www.instagram.com/reel/C_Ma5rnygJY/" class="image-link position-relative">
-                <div class="icon-overlay position-absolute d-flex justify-content-center">
-                  <svg class="instagram">
-                    <use xlink:href="#instagram"></use>
-                  </svg>
-                </div>
                 <img src="assets/img/v4.png" alt="instagram" class="img-fluid rounded-3 insta-image">
+                <div class="icon-overlay position-absolute d-flex justify-content-center align-items-center">
+                  <img src="assets/img/instagram-icon.svg" alt="Instagram Icon" class="instagram-icon">
+                </div>
               </a>
             </figure>
           </div>
           <div class="col-md-2">
             <figure class="instagram-item position-relative rounded-3">
               <a href="https://www.instagram.com/reel/DBfkGssCoq1/" class="image-link position-relative">
-                <div class="icon-overlay position-absolute d-flex justify-content-center">
-                  <svg class="instagram">
-                    <use xlink:href="#instagram"></use>
-                  </svg>
-                </div>
                 <img src="assets/img/v5.png" alt="instagram" class="img-fluid rounded-3 insta-image">
+                <div class="icon-overlay position-absolute d-flex justify-content-center align-items-center">
+                  <img src="assets/img/instagram-icon.svg" alt="Instagram Icon" class="instagram-icon">
+                </div>
               </a>
             </figure>
           </div>
           <div class="col-md-2">
             <figure class="instagram-item position-relative rounded-3">
               <a href="https://www.instagram.com/reel/DBpcoRaCYTg/" class="image-link position-relative">
-                <div class="icon-overlay position-absolute d-flex justify-content-center">
-                  <svg class="instagram">
-                    <use xlink:href="#instagram"></use>
-                  </svg>
-                </div>
                 <img src="assets/img/v6.png" alt="instagram" class="img-fluid rounded-3 insta-image">
+                <div class="icon-overlay position-absolute d-flex justify-content-center align-items-center">
+                  <img src="assets/img/instagram-icon.svg" alt="Instagram Icon" class="instagram-icon">
+                </div>
               </a>
             </figure>
           </div>
 
         </div>
       </div>
-    </section><!-- End Values Section -->
+    </section><!-- End Video Section -->
 
     <!-- ======= Counts Section ======= -->
     <section id="counts" class="counts">

@@ -7,6 +7,7 @@
               <img src="../assets/img/logo.png" alt="">
             </a>
             <p>
+              <strong>Address:</strong> <br>
               Jl. Cibogo indah III - Bodogol Rt.08/05 Kel. Mekarjaya Kec. Rancasari Kota Bandung - Jawa Barat 40292<br> 
               <strong>Phone:</strong> <br>081-861-8611<br>081-861-8622<br>
               <strong>Email:</strong> admin@digitechuniveristy.ac.id<br>
@@ -23,19 +24,14 @@
             
           </div>
 
-          <div class="col-lg-3 col-md-8 footer-contact text-center text-md-start">
-            
-          </div>
-
           <div class="col-lg-3 col-md-15 footer-contact text-center text-md-start">
-            <h4>Digitech University - PSDKU Tegal Jawa Tengah</h4>
+            <h4 style="text-align: left;">Digitech University - PSDKU Tegal Jateng</h4>
             <p>
               <strong>Address:</strong> <br>
               Jl. Kates 5 No. 47 Tembok Banjaran Adiwerna, Kab. Tegal <br>
               <strong>Phone:</strong> <br>0877-8875-3586<br>0857-0008-1905<br>
               <strong>PMB:</strong> <a href="https://pmb.utdtegal.ac.id">https://pmb.utdtegal.ac.id</a> <br>
             </p>
-
           </div>
         </div>
       </div>
